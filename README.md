@@ -1,6 +1,6 @@
 # Young_people_survey
 
-Seminarski rad u okviru kursa Istraživanje podataka 1 na 3. godini I smera.
+:mortar_board: Seminarski rad u okviru kursa Istraživanje podataka 1 na 3. godini I smera.
 
 U ovom radu prikazane su osnovne metode istraživanja podataka, od pripreme, analize i obrade podataka, do implementacije konkretnih algoritama za klasterovanje i klasifikaciju podataka, kao što su:
 * stabla odlučivanja,
